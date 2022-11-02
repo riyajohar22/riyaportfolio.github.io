@@ -134,7 +134,7 @@ header .follow a:hover{
 .home .content h3{
     font-size: 4.5rem;
     color: #111;
-     text-transform: uppercase;
+/*      text-transform: uppercase; */
 }
 .home .content h3 span{
     color: var(--main-color);
